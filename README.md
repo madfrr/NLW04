@@ -2,7 +2,6 @@
 
 Repositório criado com o intuito de acompanhar e fazer anotações sobre a Next Level Week (NLW) da Rocketseat. A thread escolhida foi a de Node.js
 
-
 ## Aula 1
 
  - Alguns comandos úteis para inicialização de um projeto de Node.js com typescript e express.
@@ -20,7 +19,7 @@ Repositório criado com o intuito de acompanhar e fazer anotações sobre a Next
 	>> 	"dev": "ts-node-dev --transpile-only --ignore-watch node-modules src/server.ts"
 	>>}
 	>>~~~
- - Para iniciar o projeto, basta utilizar o seguinte comando no diretório do projeto:
+ - Para iniciar o projeto, basta utilizar o seguinte comando no diretório ./API do projeto:
  ~~~powershell
 		>>yarn dev
 ~~~
