@@ -32,3 +32,9 @@ Explicando os comandos:
 - O **tsc** é o typescript. Nosso projeto vai ser em typescript;
  - **ts-node-dev** é um "node" que transpila o typescript pra js e roda o projeto;
  
+
+nodemailer + smtp (ethereal)
+ethereal.mail
+handlebars
+yup validation
+yarn add express-async-errors
